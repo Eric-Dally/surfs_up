@@ -17,7 +17,9 @@ There is a bulleted list that addresses the three key differences in weather bet
 
 <img width="194" alt="Screen Shot 2021-06-25 at 12 03 35 PM" src="https://user-images.githubusercontent.com/82424250/123460650-90c7be00-d5ad-11eb-9022-240e283be124.png">
 
+#### Key Differences:
 
+* June recorded 
 
 ## Summary:
 
