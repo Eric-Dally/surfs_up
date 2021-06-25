@@ -23,4 +23,4 @@ The purpose of the analysis was to explore Temperature data for the months of Ju
 
 ## Summary:
 
-There is a high-level summary of the results and there are two additional queries to perform to gather more weather data for June and December. (5 pt)
+My analyse suggests that the island of Oahu has steady weather conditions year round showing similar temperatures in both the summer and winter. However, the only metric used to support this finding was temperature. To further investigate the island's weather conditions, I would run queries on temperature and humidity in the future. This would provide more support on this claim. Overall, I would say the weather is promising to open up a surf shop in this location. 
