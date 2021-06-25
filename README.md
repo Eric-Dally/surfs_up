@@ -7,8 +7,6 @@ The purpose of the analysis was to explore Temperature data for the months of Ju
 
 ## Results:
 
-There is a bulleted list that addresses the three key differences in weather between June and December. (6 pt)
-
 ### June Temperature Statistics:
 
 <img width="161" alt="Screen Shot 2021-06-25 at 12 03 20 PM" src="https://user-images.githubusercontent.com/82424250/123460638-8a394680-d5ad-11eb-99e2-df529335590d.png">
@@ -19,7 +17,9 @@ There is a bulleted list that addresses the three key differences in weather bet
 
 #### Key Differences:
 
-* June recorded 
+* June recorded hotter temperatures with an average temperature of 75 degrees fahrenheit.
+* December recorded slightly lower temperatures with an average temperature of 71 degrees fahrenheit.
+* The temperature was very similar for June and Decemeber
 
 ## Summary:
 
